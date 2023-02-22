@@ -1,0 +1,11 @@
+S -> aAC
+A -> aAC | B
+B -> bHD 
+H -> bHD | E 
+DC -> CD
+bC -> bcc
+cC -> ccc
+cD -> cd
+dD -> dd
+aC -> acc
+bD -> bd
